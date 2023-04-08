@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Silvina Pugliese"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/silvina-pugliese/
+format:
+  html:
+    theme: simplex
+    css: styles.css
+
+editor: visual
+

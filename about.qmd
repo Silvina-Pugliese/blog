@@ -1,0 +1,17 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/silvina-pugliese/
+---
+
+I created this blog to share my reflections on topics of my profession that I care about.
+
+I am a senior data analyst in the New Zealand public sector with experience in data analytics, data modeling, and a PhD in physics. I am passionate about using data to inform policy decisions and I have a strong focus on data visualisation and communication.\
+\
+I have founded the R-Ladies chapter in Wellington New Zealand, which I am currently running, and have also volunteered for the Karori based Code Club group in the past dedicating my time and expertise to inspire and teach the next generation of coders.
+
+I would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn.
