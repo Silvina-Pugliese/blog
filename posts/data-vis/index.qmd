@@ -2,7 +2,7 @@
 title: "Elevate your visualisation skills"
 subtitle: "As a data analyst"
 author: "Silvina Pugliese"
-date: "2023-04-05"
+date: "2023-04-08"
 categories: [data visualisation, data communication]
 image: "pexels-cottonbro-studio-4965825.jpg"
 ---
@@ -11,9 +11,9 @@ image: "pexels-cottonbro-studio-4965825.jpg"
 
 Data visualisation plays a critical role for data analysis in two primary ways:
 
-1) It is a key aspect of understanding the data.
+1)  It is a key aspect of understanding the data.
 
-2) Visualisations can be used to communicate observations and insights from data in a more impactful way. 
+2)  Visualisations can be used to communicate observations and insights from data in a more impactful way.
 
 However, creating an effective data visualisation requires practice and experience. At times, data analysts are so familiar with their data that they unintentionally overlook the importance of presenting it in a clear and coherent manner. This can lead to confusing or overwhelming visualisations for others who are not as familiar with the data.
 
@@ -33,7 +33,7 @@ Something to also consider is that annotations have become a commonplace additio
 
 ## Selecting the chart type
 
-When considering the visual form, it is crucial to select a chart type that suits the data and the intended message. There are numerous resources available to assist with this step, and some of the ones I use are included in the reference section below. 
+When considering the visual form, it is crucial to select a chart type that suits the data and the intended message. There are numerous resources available to assist with this step, and some of the ones I use are included in the reference section below.
 
 The visualisation should emphasise what is important and enable the observer to understand the point with minimal mental effort. As mentioned earlier, annotations can be included to highlight critical information.
 
@@ -58,5 +58,3 @@ Develop a deep understanding of a visualisation tool and practice using it exten
 I have a strong passion for this subject and would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn.
 
 ## References
-
-
