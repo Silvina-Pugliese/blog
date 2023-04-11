@@ -58,3 +58,11 @@ Develop a deep understanding of a visualisation tool and practice using it exten
 I have a passion for this subject and for helping people elevating their data skills. I would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!
 
 ## References
+
+-   "Storytelling with data" by Cole Nussbaumer Knaflic <https://www.storytellingwithdata.com/>
+
+-   "PolicyViz" by Jonathan Schwabish <https://policyviz.com/>
+
+-   "What makes a good data visualization" by David McCandless <https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/>
+
+-   "Graphic design with ggplot2" by Cédric Scherer <https://www.cedricscherer.com/2022/08/09/2-day-workshop-on-graphic-design-with-ggplot2-at-rstudioconf-2022/>
