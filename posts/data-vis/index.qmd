@@ -25,7 +25,7 @@ Visualising data is a crucial step in exploring and analyzing it. Although calcu
 
 ## Identifying observations and insights
 
-Data visualisations are typically created for publication when there are relevant observations or insights to communicate. This is why working with domain and business experts is crucial, as they provide context that is essential for deriving insights from the analysis.
+Data visualisations have great value to present data in a clear manner and to communicate insights from data. This is why working with domain and business experts is crucial, as they provide context that is essential for deriving insights from the analysis.
 
 It is also beneficial to closely collaborate with domain experts when prototyping visualisations. Their feedback is invaluable in refining the message when we are mapping it into visual form.
 
@@ -45,9 +45,9 @@ It is crucial to remember that the message conveyed by the visualisation is what
 
 ## In summary
 
-In conclusion, as a data analyst you are the best person to create visualisations to communicate insights from data, keeping in mind that what may seem obvious to you may not be so for others.
+In conclusion, data visualisations have great value to present data in a clear manner and to communicate insights from data.
 
-Collaborate closely with domain experts to craft a message to convey visually. This is the most critical step, in my opinion.
+As a data analysts you will need to collaborate closely with domain experts to craft a message to convey visually. And keep in mind that what may seem obvious to you may not be so for others.
 
 Select a chart type that is appropriate for your data and emphasises the intended message. Utilise annotations to provide additional context that readers may need to understand the message.
 
@@ -55,6 +55,6 @@ Develop a deep understanding of a visualisation tool and practice using it exten
 
 ## Let's chat!
 
-I have a passion for this subject and for helping people improving their data skills. I would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!
+I have a passion for this subject and for helping people elevating their data skills. I would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!
 
 ## References

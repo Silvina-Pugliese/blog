@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I created this blog to share my reflections on topics of my profession that I care about.\nI am a senior data analyst in the New Zealand public sector with experience in data analytics, data modeling, and a PhD in physics. I am passionate about using data to inform policy decisions and I have a strong focus on data visualisation and communication. I also love teaching and helping people improve their data skills.\n\nI have founded the R-Ladies chapter in Wellington New Zealand, which I am currently running, and have also volunteered for the Karori based Code Club group in the past dedicating my time and expertise to inspire and teach the next generation of coders.\nI would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!"
+    "text": "I created this blog to share my reflections on topics of my profession that I care about.\nI am a senior data analyst in the New Zealand public sector with experience in data analytics, data modeling, and a PhD in physics. I am passionate about using data to inform policy decisions and I have a strong focus on data visualisation and communication.\nI love teaching and helping people elevating their data skills. I have founded the R-Ladies chapter in Wellington New Zealand, which I am currently running, and have also volunteered for the Karori based Code Club group in the past dedicating my time and expertise to inspire and teach the next generation of coders.\nI would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!"
   },
   {
     "objectID": "index.html",
@@ -32,7 +32,7 @@
     "href": "posts/data-vis/index.html#identifying-observations-and-insights",
     "title": "Elevate your visualisation skills",
     "section": "Identifying observations and insights",
-    "text": "Identifying observations and insights\nData visualisations are typically created for publication when there are relevant observations or insights to communicate. This is why working with domain and business experts is crucial, as they provide context that is essential for deriving insights from the analysis.\nIt is also beneficial to closely collaborate with domain experts when prototyping visualisations. Their feedback is invaluable in refining the message when we are mapping it into visual form.\nSomething to also consider is that annotations have become a commonplace addition to data visualisations as they provide readers with the contextual information they require to accurately interpret the message."
+    "text": "Identifying observations and insights\nData visualisations have great value to present data in a clear manner and to communicate insights from data. This is why working with domain and business experts is crucial, as they provide context that is essential for deriving insights from the analysis.\nIt is also beneficial to closely collaborate with domain experts when prototyping visualisations. Their feedback is invaluable in refining the message when we are mapping it into visual form.\nSomething to also consider is that annotations have become a commonplace addition to data visualisations as they provide readers with the contextual information they require to accurately interpret the message."
   },
   {
     "objectID": "posts/data-vis/index.html#selecting-the-chart-type",
@@ -53,14 +53,14 @@
     "href": "posts/data-vis/index.html#in-summary",
     "title": "Elevate your visualisation skills",
     "section": "In summary",
-    "text": "In summary\nIn conclusion, as a data analyst you are the best person to create visualisations to communicate insights from data, keeping in mind that what may seem obvious to you may not be so for others.\nCollaborate closely with domain experts to craft a message to convey visually. This is the most critical step, in my opinion.\nSelect a chart type that is appropriate for your data and emphasises the intended message. Utilise annotations to provide additional context that readers may need to understand the message.\nDevelop a deep understanding of a visualisation tool and practice using it extensively. For example, you could try to replicate well-designed visualisations to refine your skills."
+    "text": "In summary\nIn conclusion, data visualisations have great value to present data in a clear manner and to communicate insights from data.\nAs a data analysts you will need to collaborate closely with domain experts to craft a message to convey visually. And keep in mind that what may seem obvious to you may not be so for others.\nSelect a chart type that is appropriate for your data and emphasises the intended message. Utilise annotations to provide additional context that readers may need to understand the message.\nDevelop a deep understanding of a visualisation tool and practice using it extensively. For example, you could try to replicate well-designed visualisations to refine your skills."
   },
   {
     "objectID": "posts/data-vis/index.html#lets-chat",
     "href": "posts/data-vis/index.html#lets-chat",
     "title": "Elevate your visualisation skills",
     "section": "Let’s chat!",
-    "text": "Let’s chat!\nI have a passion for this subject and for helping people improving their data skills. I would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!"
+    "text": "Let’s chat!\nI have a passion for this subject and for helping people elevating their data skills. I would be delighted to chat if you have any questions. Please feel free to reach out to me via LinkedIn!"
   },
   {
     "objectID": "posts/data-vis/index.html#references",
