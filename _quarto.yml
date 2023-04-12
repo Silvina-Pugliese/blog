@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Dr. Silvina Pugliese"
+  google-analytics: "G-DSX29VY3HQ"
   navbar:
     right:
       - about.qmd
