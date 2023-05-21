@@ -54,7 +54,7 @@ Business analysts may have a greater familiarity with data modelling compared to
 
 ## In summary
 
-In conclusion, for data analysts with a scientific or statistical background, a data model refers to something resembling a function that takes data inputs and produces an output or estimation based on the inputs. However, in the context of business analytics, data modelling is a preliminary step before conducting any data analysis. It involves defining the structure of the data itself taking into account business characteristics and requirements.
+In conclusion, for data analysts with a scientific or statistical background, a data model refers to an analytical model that takes data inputs and produces an output or estimation based on the inputs. However, in the context of business analytics, data modelling is a preliminary step before conducting any data analysis. It involves defining the structure of the data itself taking into account business characteristics and requirements.
 
 Data modelling is an important skill for data engineers, and working with well-designed data is very important for data analysts because it helps ensure data accuracy and consistency, thereby enhancing the reliability and trustworthiness of any subsequent data analysis.
 
