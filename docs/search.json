@@ -11,7 +11,56 @@
     "href": "index.html",
     "title": "Dr. Silvina Pugliese",
     "section": "",
-    "text": "Elevate your visualisation skills\n\n\nAs a data analyst\n\n\n\n\ndata visualisation\n\n\ndata communication\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2023\n\n\nSilvina Pugliese\n\n\n\n\n\n\nNo matching items"
+    "text": "What is data modelling?\n\n\nContextual considerations\n\n\n\n\ndata modelling\n\n\ndata governance\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nSilvina Pugliese\n\n\n\n\n\n\n  \n\n\n\n\nElevate your visualisation skills\n\n\nAs a data analyst\n\n\n\n\ndata visualisation\n\n\ndata communication\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2023\n\n\nSilvina Pugliese\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/data-modelling/index.html",
+    "href": "posts/data-modelling/index.html",
+    "title": "What is data modelling?",
+    "section": "",
+    "text": "The term data model can have very different meanings depending on the context."
+  },
+  {
+    "objectID": "posts/data-modelling/index.html#what-is-a-model",
+    "href": "posts/data-modelling/index.html#what-is-a-model",
+    "title": "What is data modelling?",
+    "section": "What is a model?",
+    "text": "What is a model?\nIn a mathematical or statistical context, a model can be understood as a function (or algorithm) that takes data as input and produces an output. The model captures the relationship between the input and the output. This simplified definition of a model can be applied to mathematical models, statistical models, machine learning models, optimization models, and more.\n\n\n\n\nflowchart LR\n  A(Data input) --> B[Model] --> C(Data output)\n\n\n\n\n\n\n\n\n\nIllustration of the role of a model in the context of data analysis.\nThese types of models play a vital role in data analysis, enabling the understanding of relationships, patterns, and correlations within the data, forecasting future outcomes based on historical data, evaluating the impact of different scenarios, and more.\nHowever, in the context of business analytics, data modelling refers to a preliminary step before conducting any data analysis. It involves defining the structure of the data itself taking into account business characteristics and requirements."
+  },
+  {
+    "objectID": "posts/data-modelling/index.html#the-process-of-modelling-business-data",
+    "href": "posts/data-modelling/index.html#the-process-of-modelling-business-data",
+    "title": "What is data modelling?",
+    "section": "The process of modelling business data",
+    "text": "The process of modelling business data\nModelling the data of a business is about structuring the data in an effective way, but it is actually more than that.\nWhile learning about this topic, I discovered the work of a renowned pioneer in the field of data modelling: Ralph Kimball. Kimball’s approach focuses on what is known as “dimensional modelling” using structures such as star schemas or snowflake schemas for organising and querying data in a data warehouse environment. However, what sets the Kimball approach apart is its emphasis on collaboration and understanding the business needs.\nKimball emphasises that dimensional models should not be designed by data experts in isolation, but through collaborative efforts involving a deep understanding of the business and its requirements. The following is a quote from the Kimball Group which resonated with me:\n\nDimensional models should not be designed in isolation by folks who don’t fully understand the business and their needs; collaboration is critical!"
+  },
+  {
+    "objectID": "posts/data-modelling/index.html#data-modelling-practitioners",
+    "href": "posts/data-modelling/index.html#data-modelling-practitioners",
+    "title": "What is data modelling?",
+    "section": "Data modelling practitioners",
+    "text": "Data modelling practitioners\nYou may be wondering whether data modelling is relevant for data or business analysts, or if it is only relevant to data engineers…\nFor data engineers, data modelling provides a structured approach to designing and organising data architectures. Well-designed data models such as star schemas facilitate efficient data management, resulting in more robust data pipelines that support the needs of the organisation.\nFor data analysts, working with well-designed data is also important because it helps ensure data accuracy and consistency, thereby enhancing the reliability and trustworthiness of the subsequent data analysis.\nBusiness analysts may have a greater familiarity with data modelling compared to data analysts, given that business intelligence (BI) tools like Power BI integrate concepts and principles of data modelling. Power BI empowers users to create dimensional models using a star schema or snowflake schema, effectively organising the data into fact tables (containing numerical measures) and dimension tables (containing descriptive attributes). Data modelling contributes to faster responsiveness of data reports, making it particularly valuable for business analysts. It is worth noting though, that similar tasks of dimensional modelling can be achieved using programming languages (e.g. R, Python, Julia)."
+  },
+  {
+    "objectID": "posts/data-modelling/index.html#in-summary",
+    "href": "posts/data-modelling/index.html#in-summary",
+    "title": "What is data modelling?",
+    "section": "In summary",
+    "text": "In summary\nIn conclusion, for data analysts with a scientific or statistical background, a data model refers to something resembling a function that takes data inputs and produces an output or estimation based on the inputs. However, in the context of business analytics, data modelling is a preliminary step before conducting any data analysis. It involves defining the structure of the data itself taking into account business characteristics and requirements.\nData modelling is an important skill for data engineers, and working with well-designed data is very important for data analysts because it helps ensure data accuracy and consistency, thereby enhancing the reliability and trustworthiness of any subsequent data analysis.\nBusiness analysts may have a greater familiarity with data modelling compared to data analysts, given that business intelligence (BI) tools like Power BI integrate concepts and principles of data modelling.\nData modelling contributes to faster responsiveness of data reports, making it particularly valuable for data and business analysts.\nIt is important to mention that dimensional modeling can be implemented using programming languages such as R, Python, and Julia, it is not limited to Power BI."
+  },
+  {
+    "objectID": "posts/data-modelling/index.html#lets-chat",
+    "href": "posts/data-modelling/index.html#lets-chat",
+    "title": "What is data modelling?",
+    "section": "Let’s chat!",
+    "text": "Let’s chat!\nI have a passion for data analytics and for helping people elevating their data skills. I would be very happy to chat if you have any questions! Please feel free to reach out to me via LinkedIn."
+  },
+  {
+    "objectID": "posts/data-modelling/index.html#references",
+    "href": "posts/data-modelling/index.html#references",
+    "title": "What is data modelling?",
+    "section": "References",
+    "text": "References\n\n“About the Kimball Group” https://www.kimballgroup.com/"
   },
   {
     "objectID": "posts/data-vis/index.html",
