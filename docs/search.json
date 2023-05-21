@@ -46,7 +46,7 @@
     "href": "posts/data-modelling/index.html#in-summary",
     "title": "What is data modelling?",
     "section": "In summary",
-    "text": "In summary\nIn conclusion, for data analysts with a scientific or statistical background, a data model refers to something resembling a function that takes data inputs and produces an output or estimation based on the inputs. However, in the context of business analytics, data modelling is a preliminary step before conducting any data analysis. It involves defining the structure of the data itself taking into account business characteristics and requirements.\nData modelling is an important skill for data engineers, and working with well-designed data is very important for data analysts because it helps ensure data accuracy and consistency, thereby enhancing the reliability and trustworthiness of any subsequent data analysis.\nBusiness analysts may have a greater familiarity with data modelling compared to data analysts, given that business intelligence (BI) tools like Power BI integrate concepts and principles of data modelling.\nData modelling contributes to faster responsiveness of data reports, making it particularly valuable for data and business analysts.\nIt is important to mention that dimensional modeling can be implemented using programming languages such as R, Python, and Julia, it is not limited to Power BI."
+    "text": "In summary\nIn conclusion, for data analysts with a scientific or statistical background, a data model refers to an analytical model that takes data inputs and produces an output or estimation based on the inputs. However, in the context of business analytics, data modelling is a preliminary step before conducting any data analysis. It involves defining the structure of the data itself taking into account business characteristics and requirements.\nData modelling is an important skill for data engineers, and working with well-designed data is very important for data analysts because it helps ensure data accuracy and consistency, thereby enhancing the reliability and trustworthiness of any subsequent data analysis.\nBusiness analysts may have a greater familiarity with data modelling compared to data analysts, given that business intelligence (BI) tools like Power BI integrate concepts and principles of data modelling.\nData modelling contributes to faster responsiveness of data reports, making it particularly valuable for data and business analysts.\nIt is important to mention that dimensional modeling can be implemented using programming languages such as R, Python, and Julia, it is not limited to Power BI."
   },
   {
     "objectID": "posts/data-modelling/index.html#lets-chat",
@@ -60,7 +60,7 @@
     "href": "posts/data-modelling/index.html#references",
     "title": "What is data modelling?",
     "section": "References",
-    "text": "References\n\n“About the Kimball Group” https://www.kimballgroup.com/"
+    "text": "References\n\n“Dimensional Modeling Techniques” https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/"
   },
   {
     "objectID": "posts/data-vis/index.html",

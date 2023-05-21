@@ -70,4 +70,4 @@ I have a passion for data analytics and for helping people elevating their data 
 
 ## References
 
--   "About the Kimball Group" <https://www.kimballgroup.com/>
+-   "Dimensional Modeling Techniques" <https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/>
